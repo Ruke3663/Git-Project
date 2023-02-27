@@ -1,4 +1,7 @@
 # Git-Project
+Git commands that simulate a team building and releasing a product using the Gitflow workflow for this Project
+![q](https://user-images.githubusercontent.com/61823039/221684906-40f39f5a-e037-4232-9d1b-fdace78f7e36.png)
+
 mkdir finalassignment - Creates a new directory called "finalassignment".
 
 cd finalassignment - Navigates to the "finalassignment" directory.
